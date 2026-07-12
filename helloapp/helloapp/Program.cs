@@ -4,4 +4,9 @@
 	{
 		Console.WriteLine("hello");
 	}
+
+	public void greetWhite()
+	{
+		Console.WriteLine("hello white");
+	}
 }
